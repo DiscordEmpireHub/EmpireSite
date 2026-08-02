@@ -1,2 +1,2 @@
-# EmpireSite
-Site institucional do EmpireHub — homepage, política de privacidade e termos de serviço (Astro)
+# EmpireEngine
+Game Engine and Asset Pack for EmpireHub and EmpireGames
